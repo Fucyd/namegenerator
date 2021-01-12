@@ -1,39 +1,32 @@
 # Polish names generator API
 
+## https://name-generator-michalski.herokuapp.com/
 
 API:
 
-##Get one random name
+Get one random name
+https://name-generator-michalski.herokuapp.com/api/one
 
-##https://name-generator-michalski.herokuapp.com/api/one
+Get one random female name
+https://name-generator-michalski.herokuapp.com/api/onefemale
 
-##Get one random female name
+Get one random male name
+https://name-generator-michalski.herokuapp.com/api/onemale
 
-##https://name-generator-michalski.herokuapp.com/api/onefemale
+Get five random names
+https://name-generator-michalski.herokuapp.com/api/five
 
-##Get one random male name
+Get five random female names
+https://name-generator-michalski.herokuapp.com/api/fivefemale
 
-##https://name-generator-michalski.herokuapp.com/api/onemale
+Get five random male names
+https://name-generator-michalski.herokuapp.com/api/fivemale
 
-##Get five random names
+Get all female names
+https://name-generator-michalski.herokuapp.com/api/allfemale
 
-##https://name-generator-michalski.herokuapp.com/api/five
-
-##Get five random female names
-
-##https://name-generator-michalski.herokuapp.com/api/fivefemale
-
-##Get five random male names
-
-##https://name-generator-michalski.herokuapp.com/api/fivemale
-
-##Get all female names
-
-##https://name-generator-michalski.herokuapp.com/api/allfemale
-
-##Get all male names
-
-##https://name-generator-michalski.herokuapp.com/api/allmale
+Get all male names
+https://name-generator-michalski.herokuapp.com/api/allmale
 
 
 
